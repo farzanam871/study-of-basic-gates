@@ -94,7 +94,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 <img width="1558" height="945" alt="Screenshot 2025-11-23 174342" src="https://github.com/user-attachments/assets/008459ca-f1e5-4b52-a509-02eec01fbbf7" />
 
 **RTL**
-<img width="1713" height="535" alt="Screenshot 2025-11-23 174453" src="https://github.com/user-attachments/assets/f9847f28-0de6-4023-af05-ed531cd5f8b6" />
+<img width="1713" height="535" alt="Screenshot 2025-11-23 174453" src="https://github.com/user-attachments/assets/bcca86b4-a035-4234-96a7-ae2d2becf792" />
+
 
 **Result:**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming
